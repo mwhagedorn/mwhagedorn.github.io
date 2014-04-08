@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[How They Discovered Something Worth Knowing]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-04-07T07:49:00-05:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://mwhagedorn.github.io/atom.xml" rel="self"/>
+  <link href="http://mwhagedorn.github.io/"/>
+  <updated>2014-04-08T08:41:50-05:00</updated>
+  <id>http://mwhagedorn.github.io/</id>
   <author>
     <name><![CDATA[Mike Hagedorn]]></name>
     
@@ -15,10 +15,16 @@
   
   <entry>
     <title type="html"><![CDATA[A New Start]]></title>
-    <link href="http://yoursite.com/blog/2014/03/25/a-new-start/"/>
+    <link href="http://mwhagedorn.github.io/blog/2014/03/25/a-new-start/"/>
     <updated>2014-03-25T10:33:04-05:00</updated>
-    <id>http://yoursite.com/blog/2014/03/25/a-new-start</id>
-    <content type="html"><![CDATA[
+    <id>http://mwhagedorn.github.io/blog/2014/03/25/a-new-start</id>
+    <content type="html"><![CDATA[<p>Its been a long time since I updated my blog, in fact all my old blog posts I
+havent bothered to move over yet to this new format.   I may do that, but for now
+I am going to just start over clean.   I hope to write more about my observations on
+OpenStack, a bit about my role at HPCloud, Internet of Things work I am doing, Arduino
+Gadgets I am building.. and the list goes on.  Stay tuned.</p>
+
+<p>m</p>
 ]]></content>
   </entry>
   
